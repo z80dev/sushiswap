@@ -1,10 +1,10 @@
-# SushiSwap
+# SushiSwap but Zappable
 
-https://sushi.com/
+Forked from https://sushi.com/
 
 ## Deployed Contracts
 
-https://dev.sushi.com/sushiswap/contracts
+None yet, stay tuned :)
 
 ## Docs
 
